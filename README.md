@@ -60,6 +60,8 @@ plt.show()
 ```
 
 <img width="1100" height="711" alt="Screenshot 2025-10-16 172240" src="https://github.com/user-attachments/assets/980ee60e-932a-4c6c-b654-e36dbe0dcd8c" /> 
+
+
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
